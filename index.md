@@ -1,3 +1,6 @@
+簡介：
+2014年開始研究比特幣且共同經營"Bitcoin 比特幣中文社團"的管理員，目前人數高達四萬五千人。2016年攻讀北京大學碩士，並於兩年內完成三年的碩士學位，在這五年間發表了十篇論文，當中四篇為IEEE國際會議，並且得到TANET最佳論文的殊榮。2018年回到台灣創建"Cypherpunks Taiwan"以隱私與自由為主題的技術社區。個人研究興趣為洋蔥網路、比特幣、防火牆。 
+
 學歷：
 * 博士, 台灣大學, 電機工程學系, 2020 -
 * 碩士, 北京大學, 軟體工程, 數據挖掘與商務智能, 2016 - 2018
@@ -34,6 +37,11 @@
 * Po-Wei Chen, Bo-Sian Jiang, Tze-Huan Huang and Chia-Hui Wang, “The Design and Implementation of Motorcycle Accident Identification and Notification on Android Phone,” , Workshop of Information Technologies and Practices on International
 * Po-Wei Chen, Chia-Hui Wang, Jan-Ming Ho, “Study on the Security of Electronic Wallet of Digital Currency - Bitcoin Wallet as an Example,” , the 9th Cross-Strait Conference on Information Science and Technology, National Quemoy University, Kinmen, 06-08 November, 2015
 
+論文審查：
+* 審稿人, Concurrency and Computation: Practice and Experience, WILEY, 2019.4
+* 審稿人, Concurrency and Computation: Practice and Experience, WILEY, 2018.11
+* 審稿人, Security and Communication Networks, WILEY, 2018.9
+
 書籍 論文 翻譯：
 * (書) Mastering Bitcoin 2nd Edition (精通比特幣第二版)
 * (書) Mastering Ethereum (精通以太坊)
@@ -41,11 +49,6 @@
 * (論文) A Peer-to-Peer Electronic Cash System (比特幣白皮書)
 * (論文) Ethereum White Paper (以太坊白皮書)
 * (論文) The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments (比特幣閃電網路：可擴展的 off-chain 即時支付)
-
-論文審查：
-* 審稿人, Concurrency and Computation: Practice and Experience, WILEY, 2019.4
-* 審稿人, Concurrency and Computation: Practice and Experience, WILEY, 2018.11
-* 審稿人, Security and Communication Networks, WILEY, 2018.9
 
 受邀演講：
 * 比特幣的過去現在與未來
@@ -67,13 +70,6 @@
 * 比特幣系統運作與應用, 河北工業大學, 經濟與管理學院, 2018.6.20
 * 比特幣與以太坊地址, Taipei Ethereum Meetup, 2017.12.19
 
-社群：
-* Co Organizer, Bitcoin比特幣中文社團, 2014
-* Co Organizer, Taipei Bitcoin Meetip, 2014
-* Co Organizer, Taipei Ethereum Meetup, 2016
-* Organizer, IOTA 愛好者線上社群, 2017
-* Organizer, Cypherpunks Taiwan, 2019
-
 科技部計畫：
 * 高畫質行動即時影音應用在網際網路多重鏈路傳輸上QoS,QoE與 QoP之品質提升研究(II), 科技部, 2014.8 - 2015.8
 * 高畫質行動即時影音應用在網際網路多重鏈路傳輸上QoS,QoE與 QoP之品質提升研究(III), 科技部, 2015.8 - 2016.8
@@ -83,8 +79,16 @@
 獎項：
 * 最佳論文獎, TANET臺灣學術網路, 2017
 * 學習優秀獎, 北京大學軟件與微電子學院, 2017
+* 學習優秀獎, 北京大學軟件與微電子學院, 2016
 * 特優, 銘傳大學專題研究, 2015
 * 最佳創意獎, 淡江大學黑客松, 2015
+
+社群：
+* Co Organizer, Bitcoin比特幣中文社團, 2014 #45,000人以上
+* Co Organizer, Taipei Bitcoin Meetip, 2014 #台灣最悠久的幣特幣聚會
+* Co Organizer, Taipei Ethereum Meetup, 2016 #亞洲區最精進的etherem社區
+* Organizer, IOTA 愛好者線上社群, 2017
+* Organizer, Cypherpunks Taiwan, 2019 #以密碼學為基礎，推動自由隱私，目前翻譯多本書籍、執行比特幣衛星計畫
 
 IEEE 電機電子工程師學會：
 * Member, Blockchain Community, IEEE, 2018.1 - 至今
