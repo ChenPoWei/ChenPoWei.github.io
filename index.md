@@ -5,13 +5,13 @@ title: cv
 > 2014年開始研究比特幣且共同經營"Bitcoin 比特幣中文社團"的管理員，目前人數高達四萬五千人。2016年攻讀北京大學碩士，並於兩年內完成三年的碩士學位，在這五年間發表了十篇論文，當中四篇為IEEE國際會議，並且得到TANET最佳論文的殊榮。2018年回到台灣創建"Cypherpunks Taiwan"以隱私與自由為主題的技術社區。
 
 研究領域：
-* 比特幣 #地址生成、網路、交易、閃電網路、腦錢包攻擊、交易監管
-* 密碼學 #端點加密、加密郵件
-* 樹莓派 #網路流量監測、搭建Wifi
-* Minecraft #在1.2.5版本時期為全台前五大伺服器
-* hadoop #MPTCP負載平衡、彩虹表攻擊
-* 機械學習 #西門子三軸加速度感應器數據、惡意軟體封包流量分析
-* 洋蔥網路 #v2運作 v3運作 hidden service 搭建
+* 比特幣 # 地址生成、網路、交易、閃電網路、腦錢包攻擊、交易監管
+* 密碼學 # 端點加密、加密郵件
+* 樹莓派 # 網路流量監測、搭建Wifi
+* Minecraft # 在1.2.5版本時期為全台前五大伺服器
+* hadoop # MPTCP負載平衡、彩虹表攻擊
+* 機械學習 # 西門子三軸加速度感應器數據、惡意軟體封包流量分析
+* 洋蔥網路 # v2運作 v3運作 hidden service 搭建
 
 學歷：
 * 博士, 台灣大學, 電機工程學系, 2020 -
@@ -29,6 +29,7 @@ title: cv
   > * 活動影片剪輯 # adobe premiere, final cut pro
   > * 官方網站搭建 # git, github-page, jekyll
   > * 推動比特幣衛星計畫 # 以沒有網路的方式接收比特幣信號
+  > * 推動閃電網路計畫 
   > * 搭建Cypherpunks 技術論壇
   > * 舉辦過10場以上的 Cypherpunks 技術聚會 ，合作夥伴包括Liteoin 創辦人, Blockstream CSO, NAYUTA, Cortex
 * 測試, HTC exodus 1, 2018.10 - 至今
@@ -39,20 +40,12 @@ title: cv
 * 助教, 銘傳大學, 2015.07 - 2016.06
   > 作業系統 & 機率統計
 
-
-自我評價：
-* 較強的研究與架構能力、資料及密碼行業洞察能力、報告撰寫能力
-* 扎實的密碼技術方案, 有演算法開發與產品經驗
-* 對區塊鏈隱私保護有豐富研究經驗, 即時跟蹤國際技術發展
-* 中英語流利, 可英文撰寫報告
-* 其他研究及活動經驗
-
 國際研討會：
-* Liu Chia-Ruei, Po-Wei Chen, Yang Chao-Chun and Duan Li-Hua. “Monitoring Machine Tool Based On External Physical Characteristics Of The Machine Tool Using Machine Learning Algorithm.” First IEEE International Conference on Artificial Intelligence for Industries ( IEEE AI4I 2018) .2018
-* Liu Chia-Ruei, Duan Huei-Yuan, Po-Wei Chen and Duan Li-Hua. “Improve Production Efficiency and Predict Machine Tool Status using Markov Chain and Hidden Markov Model.”, The 8th International Conference On Computer Science and Information Technology ( CSIT2018) . 2018
+* Liu Chia-Ruei, Po-Wei Chen, Yang Chao-Chun and Duan Li-Hua. “Monitoring Machine Tool Based On External Physical Characteristics Of The Machine Tool Using Machine Learning Algorithm.” First IEEE International Conference on Artificial Intelligence for Industries ( IEEE AI4I 2018) .2018, [IEEE](https://ieeexplore.ieee.org/document/8665696)
+* Liu Chia-Ruei, Duan Huei-Yuan, Po-Wei Chen and Duan Li-Hua. “Improve Production Efficiency and Predict Machine Tool Status using Markov Chain and Hidden Markov Model.”, The 8th International Conference On Computer Science and Information Technology ( CSIT2018) . 2018, [IEEE](https://ieeexplore.ieee.org/document/8486382)
 * Jan-Ming Ho, Po-Wei Chen, Chia-Hui Wang. “Feasibility Study on Sniffering and Breakthrough of Firewall Rules behind Non-free Networks over Internet.”, 2018 International Conference for Leading and Young Computer Scientists （IC-LYCS） . 2018.
-* Po-Wei Chen, Bo-Sian Jiang, and Chia-Hui Wang. “Blockchain-based payment collection supervision system using pervasive Bitcoin digital wallet.” 2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications （WiMob） . IEEE, 2017.
-* Chen Yu-Li, Po-Wei Chen, and Chia-Hui Wang. “Performance improvement for CMT-SCTP via load-balancing virtual connections.” Computing and Communication （IEMCON）, 2015 International Conference and Workshop on. IEEE, 2015 .
+* Po-Wei Chen, Bo-Sian Jiang, and Chia-Hui Wang. “Blockchain-based payment collection supervision system using pervasive Bitcoin digital wallet.” 2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications （WiMob） . IEEE, 2017, [IEEE](https://ieeexplore.ieee.org/abstract/document/8115844)
+* Chen Yu-Li, Po-Wei Chen, and Chia-Hui Wang. “Performance improvement for CMT-SCTP via load-balancing virtual connections.” Computing and Communication （IEMCON）, 2015 International Conference and Workshop on. IEEE, 2015 , [IEEE](https://ieeexplore.ieee.org/document/7344494)
 	
 國內研討會：	
 * Po-Wei Chen, Chia-Hui Wang and Jan-Ming Ho. "Discussion on the Feasibility and Breakthrough of Firewall Rules for Non-Free Network", National Computer Symposium(NCS), 2018.
@@ -94,10 +87,10 @@ title: cv
 * 比特幣與以太坊地址, Taipei Ethereum Meetup, 2017.12.19
 
 科技部計畫：
-* 高畫質行動即時影音應用在網際網路多重鏈路傳輸上QoS,QoE與 QoP之品質提升研究(II), 科技部, 2014.8 - 2015.8
-* 高畫質行動即時影音應用在網際網路多重鏈路傳輸上QoS,QoE與 QoP之品質提升研究(III), 科技部, 2015.8 - 2016.8
-* 數位元貨幣交易之安全性提升的設計與實作-以開放源碼之比特幣錢包為例, 科技部, 2016.8 - 2017.8
 * Sharing Visual Secrets in Single Image Random Dot Stereograms, 科技部, 2018.1 - 2018.9
+* 數位元貨幣交易之安全性提升的設計與實作-以開放源碼之比特幣錢包為例, 科技部, 2016.8 - 2017.8
+* 高畫質行動即時影音應用在網際網路多重鏈路傳輸上QoS,QoE與 QoP之品質提升研究(III), 科技部, 2015.8 - 2016.8
+* 高畫質行動即時影音應用在網際網路多重鏈路傳輸上QoS,QoE與 QoP之品質提升研究(II), 科技部, 2014.8 - 2015.8
 
 獎項：
 * 最佳論文獎, TANET臺灣學術網路, 2017
@@ -107,12 +100,15 @@ title: cv
 * 最佳創意獎, 淡江大學黑客松, 2015
 
 社群：
-* Co Organizer, Bitcoin比特幣中文社團, 2014 #45,000人以上
-    * 管理四萬五千人的社群，秉持中立原則
-* Co Organizer, Taipei Bitcoin Meetip, 2014 #台灣最悠久的幣特幣聚會
-* Co Organizer, Taipei Ethereum Meetup, 2016 #亞洲區最精進的etherem社區
-* Organizer, IOTA 愛好者線上社群, 2017
-* Organizer, Cypherpunks Taiwan, 2019 #以密碼學為基礎，推動自由隱私，目前翻譯多本書籍、執行比特幣衛星計畫
+* Co Organizer, Bitcoin比特幣中文社團, 2014 - 至今
+  > 管理四萬五千人的社群，是台灣最大的比特幣社群，秉持中立原則
+* Co Organizer, Taipei Bitcoin Meetip, 2014 - 至今
+  > 台灣最悠久的幣特幣聚會
+* Co Organizer, Taipei Ethereum Meetup, 2016  - 至今
+  > 亞洲區最精進的etherem社區
+* Organizer, IOTA 愛好者線上社群, 2017 - 至今
+* Organizer, Cypherpunks Taiwan, 2019 - 至今
+  > 以密碼學為基礎，推動自由隱私，目前翻譯多本書籍、執行比特幣衛星計畫
 
 IEEE 電機電子工程師學會：
 * Member, Blockchain Community, IEEE, 2018.1 - 至今
@@ -121,21 +117,20 @@ IEEE 電機電子工程師學會：
 * Member, IEEE Young Professionals, 2016.1 - 2017.12
 * Member, IEEE Computer Society Membership, 2016.1 - 2018.12
 
-相關新聞：
-* 2019.10.10, 文組也該知道的區塊鏈技術知識 <6> 一次搞懂「區塊鏈架構」(比特幣), BlockTempo
-* 2019.09.09, 加密貨幣被破解？美國國家安全局 NSA 正在開發「量子密碼學」，抵禦量子電腦造成的資安問題, BlockTempo
-* 2019.08.12, 萊特幣（LTC）上週末遭受「大規模粉塵攻擊」，對用戶有什麼影響？, BlockTempo, 
-* 2019.07.24, 「不用網路、從太空收比特幣」—— 台北架設了亞洲唯二的「比特幣衛星接收器」, BlockTempo
-* 2019.07.09 區塊鏈技術公司 Blockstream 在台北：深入比特幣側鏈 Liquid Network     
-  [動區動趨 BlockTEMPO](https://www.blocktempo.com/blockstream-explained-liquid-network-in-cypherpunks-taiwan/)
-* 2019.07.08 區塊鏈技術公司 Blockstream 在台北：深入比特幣衛星計畫     
-  [動區動趨 BlockTEMPO](https://www.blocktempo.com/blockstream-in-taiwna-sharing-their-blockstream-satellite-project/) 、[BTC01](https://btc01.co/?p=18563)
-* 2019.06.05, 加密貨幣開發社群的好消息！蘋果公司在昨日 Apple 開發者大會中釋出「加密工具 CryptoKit」, BlockTempo, 
-* 2019.06.03, 「泰斗級開發者」共同提出比特幣新協議：將大幅節省網路頻寬用量、提高安全性, BlockTempo
-* 2019.05.12, 「想要我的財寶嗎？想要的話全部都給你！」中本聰的寶藏，獲勝隊伍將贏得 3000 萬元的比特幣, BlockTempo
-* 2019.04.19, 發文互動賺比特幣，台灣論壇「密碼龐克」將透過閃電網路分發獎勵, BlockTempo
-* 2019.04.06, 閃電聖火將燃燒殆盡？ —— 這場全球性實驗帶給比特幣社群的啟發, BlockTempo
-* 2019.03.03, 台灣成立新社群平台「密碼龐克」— 從比特幣核心精神進行「在鏈上的交流」, BlockTempo
-* 2019.02.15, Coinbase 在 Google Drive 與 iCloud 上推出「雲備份」私鑰功能, BlockTempo
-* 2019.01.25, 「區塊鏈的再審視，回歸密碼龐克初衷」 —— 比特幣資深研究者．陳伯韋, BlockTempo 
-* 2018.01.31, 高中接觸密碼學、大學開始挖礦，北大碩二生：信仰讓我不解套, 數位時代
+相關新聞 & 文章：
+* 2019.10.10, 文組也該知道的區塊鏈技術知識 <6> 一次搞懂「區塊鏈架構」(比特幣), [BlockTempo](https://www.blocktempo.com/understand-structure-of-blockchain-bitcoin/)
+* 2019.10.06, 隱私、區塊鏈與洋蔥路由, [鏈文](https://www.chainnews.com/articles/180033622929.htm)
+* 2019.09.09, 加密貨幣被破解？美國國家安全局 NSA 正在開發「量子密碼學」，抵禦量子電腦造成的資安問題, [BlockTempo](https://www.blocktempo.com/nsa-reportedly-developing-quantum-resistant-crypto/)
+* 2019.08.12, 萊特幣（LTC）上週末遭受「大規模粉塵攻擊」，對用戶有什麼影響？, [BlockTempo](https://www.blocktempo.com/binance-academy-found-scalable-dusting-attack/), 
+* 2019.07.24, 「不用網路、從太空收比特幣」—— 台北架設了亞洲唯二的「比特幣衛星接收器」, [BlockTempo](https://www.blocktempo.com/cypherpunks-sets-the-blockstream-satellite-receiver/)
+* 2019.07.09 區塊鏈技術公司 Blockstream 在台北：深入比特幣側鏈 Liquid Network,  [BlockTempo](https://www.blocktempo.com/blockstream-explained-liquid-network-in-cypherpunks-taiwan/)
+* 2019.07.08 區塊鏈技術公司 Blockstream 在台北：深入比特幣衛星計畫, [BlockTempo](https://www.blocktempo.com/blockstream-in-taiwna-sharing-their-blockstream-satellite-project/) 、[BTC01](https://btc01.co/?p=18563)
+* 2019.06.05, 加密貨幣開發社群的好消息！蘋果公司在昨日 Apple 開發者大會中釋出「加密工具 CryptoKit」, [BlockTempo](https://www.blocktempo.com/apple-released-cryptokit-in-ios13-on-wwdv-1/) 
+* 2019.06.03, 「泰斗級開發者」共同提出比特幣新協議：將大幅節省網路頻寬用量、提高安全性, [BlockTempo](https://www.blocktempo.com/bitcoin-new-protocol-erlay/)
+* 2019.05.12, 「想要我的財寶嗎？想要的話全部都給你！」中本聰的寶藏，獲勝隊伍將贏得 3000 萬元的比特幣, [BlockTempo](https://www.blocktempo.com/satoshis-treasure-is-a-global-puzzle-with-a-1-million-bitcoin-prize/)
+* 2019.04.19, 發文互動賺比特幣，台灣論壇「密碼龐克」將透過閃電網路分發獎勵, [BlockTempo](https://www.blocktempo.com/cypherpunk-taiwan-lightning-tipping/)
+* 2019.04.06, 閃電聖火將燃燒殆盡？ —— 這場全球性實驗帶給比特幣社群的啟發, [BlockTempo](https://www.blocktempo.com/lighning-torch-burning-out/)
+* 2019.03.03, 台灣成立新社群平台「密碼龐克」— 從比特幣核心精神進行「在鏈上的交流」, [BlockTempo](https://www.blocktempo.com/cypher-punk-taiwan-forum/)
+* 2019.02.15, Coinbase 在 Google Drive 與 iCloud 上推出「雲備份」私鑰功能, [BlockTempo](https://www.blocktempo.com/coinbase-cloud-back-up/),
+* 2019.01.25, 「區塊鏈的再審視，回歸密碼龐克初衷」 —— 比特幣資深研究者．陳伯韋, [BlockTempo](https://www.blocktempo.com/cypherpunk-blockchain-re-evaluation-2/)
+* 2018.01.31, 高中接觸密碼學、大學開始挖礦，北大碩二生：信仰讓我不解套, [數位時代](https://www.bnext.com.tw/article/48004/graduate-believe-in-crypto)
