@@ -1,6 +1,10 @@
 ---
 title: cv
 ---
+e-mail: 01360086@me.mcu.edu.tw
+wechat: davidfish
+facebook: https://www.facebook.com/pw.chen.bitcoiner
+twitter: https://twitter.com/PWChenD
 
 > 2014年開始研究比特幣且共同經營"Bitcoin 比特幣中文社團"的管理員，目前人數高達四萬五千人。2016年攻讀北京大學碩士，並於兩年內完成三年的碩士學位，在這五年間發表了十篇論文，當中四篇為IEEE國際會議，並且得到TANET最佳論文的殊榮。2018年回到台灣創建"Cypherpunks Taiwan"以隱私與自由為主題的技術社區。
 
@@ -59,12 +63,12 @@ title: cv
 * 審稿人, Security and Communication Networks, WILEY, 2018.9
 
 書籍 論文 翻譯：
-* (書) Mastering Bitcoin 2nd Edition (精通比特幣第二版)
-* (書) Mastering Ethereum (精通以太坊)
-* (書) Cypherpunks: Freedom and the Future of the Internet
-* (論文) A Peer-to-Peer Electronic Cash System (比特幣白皮書)
-* (論文) Ethereum White Paper (以太坊白皮書)
-* (論文) The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments (比特幣閃電網路：可擴展的 off-chain 即時支付)
+* (書) Mastering Bitcoin 2nd Edition (精通比特幣第二版) [link](https://cypherpunks-core.github.io/products/MasteringBitcoin/)
+* (書) Mastering Ethereum (精通以太坊) [link](https://cypherpunks-core.github.io/products/MasteringEthereum/)
+* (書) Cypherpunks: Freedom and the Future of the Internet [link](https://cypherpunks-core.github.io/products/cypherpunk/)
+* (論文) A Peer-to-Peer Electronic Cash System (比特幣白皮書) [link](https://cypherpunks-core.github.io/products/BitcoinWhitePaper/)
+* (論文) Ethereum White Paper (以太坊白皮書) [link](https://cypherpunks-core.github.io/products/EthereumWhitePaper/)
+* (論文) The Bitcoin Lightning Network: Scalable Off-Chain Instant Payments (比特幣閃電網路：可擴展的 off-chain 即時支付) [link](https://cypherpunks-core.github.io/products/LightningNetworkWhitePaper/)
 
 受邀演講：
 * 比特幣的過去現在與未來
@@ -100,14 +104,14 @@ title: cv
 * 最佳創意獎, 淡江大學黑客松, 2015
 
 社群：
-* Co Organizer, Bitcoin比特幣中文社團, 2014 - 至今
+* Co Organizer, [Bitcoin比特幣中文社團](https://www.facebook.com/groups/bitcoin.tw/), 2014 - 至今
   > 管理四萬五千人的社群，是台灣最大的比特幣社群，秉持中立原則
-* Co Organizer, Taipei Bitcoin Meetip, 2014 - 至今
+* Co Organizer, [Taipei Bitcoin Meetip](https://www.meetup.com/Taipei-Bitcoin-Meetup-Group/), 2014 - 至今
   > 台灣最悠久的幣特幣聚會
-* Co Organizer, Taipei Ethereum Meetup, 2016  - 至今
+* Co Organizer, [Taipei Ethereum Meetup](https://www.meetup.com/Taipei-Ethereum-Meetup/), 2016  - 至今
   > 亞洲區最精進的etherem社區
-* Organizer, IOTA 愛好者線上社群, 2017 - 至今
-* Organizer, Cypherpunks Taiwan, 2019 - 至今
+* Organizer, [IOTA 愛好者線上社群](https://www.facebook.com/groups/897485720426082/), 2017 - 至今
+* Organizer, [Cypherpunks Taiwan](https://cypherpunks-core.github.io/), 2019 - 至今
   > 以密碼學為基礎，推動自由隱私，目前翻譯多本書籍、執行比特幣衛星計畫
 
 IEEE 電機電子工程師學會：
