@@ -1,7 +1,10 @@
 ---
 title: cv
 ---
-e-mail: 01360086@me.mcu.edu.tw 、 wechat: davidfish 、 facebook: https://www.facebook.com/pw.chen.bitcoiner 、 twitter: https://twitter.com/PWChenD
+* wechat: davidfish
+* e-mail: 01360086@me.mcu.edu.tw
+* twitter: [https://twitter.com/PWChenD](https://twitter.com/PWChenD)
+* facebook: [https://www.facebook.com/pw.chen.bitcoiner](https://www.facebook.com/pw.chen.bitcoiner)
 
 > 2014年開始研究比特幣且共同經營"Bitcoin 比特幣中文社團"的管理員，目前人數高達四萬五千人。2016年攻讀北京大學碩士，並於兩年內完成三年的碩士學位，在這五年間發表了十篇論文，當中四篇為IEEE國際會議，並且得到TANET最佳論文的殊榮。2018年回到台灣創建"Cypherpunks Taiwan"以隱私與自由為主題的技術社區。
 
