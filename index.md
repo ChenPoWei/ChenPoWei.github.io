@@ -23,7 +23,7 @@ title: cv
   > 研究 segwit, 閃電網路技術, 多重簽名, greenaddress
 * 顧問, BlockTempo, 2018.09 - 至今
   > 諮詢內容包括比特幣、比特現金、密碼學、網路安全、洗錢、暗網相關的攻擊與技術闡述，相關文章15篇
-* 發起人, Cypherpunks Taiwan, 2019.01 - 至今
+* 發起人, Cypherpunks Taiwan, 2018.11 - 至今
   > * 社群文化核心精神設計
   > * logo & 宣傳 設計 # adobe illustrator, adobe photoshop
   > * 活動影片剪輯 # adobe premiere, final cut pro
