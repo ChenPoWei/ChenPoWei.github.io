@@ -8,6 +8,12 @@ title: cv
 
 > 2014年開始研究比特幣且共同經營"Bitcoin 比特幣中文社團"的管理員，目前人數高達四萬五千人。2016年攻讀北京大學碩士，並於兩年內完成三年的碩士學位，在這五年間發表了十篇論文，當中四篇為IEEE國際會議，並且得到TANET最佳論文的殊榮。2018年回到台灣創建"Cypherpunks Taiwan"以隱私與自由為主題的技術社區。
 
+In 2014, I started blockchain technology research, and in 2015 I entered the Academia Sinica to do blockchain research and participated in four projects of the Ministry of Science and Technology of the Republic of China.
+
+Since 2014, 10 papers have been completed, 4 of which are IEEE international conferences, and two have won the best paper awards. I studied at Peking University in 2016 and completed my three years of study in two years.
+
+My research interests include bitcoin, blockchain, onion networks, cryptography, firewalls, Minecraft and Raspberry Pi.
+
 研究領域：
 * 比特幣 # 地址生成、網路、交易、閃電網路、腦錢包攻擊、交易監管
 * 密碼學 # 端點加密、加密郵件
