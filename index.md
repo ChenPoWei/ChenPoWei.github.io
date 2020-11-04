@@ -29,7 +29,10 @@ My research interests include bitcoin, blockchain, onion networks, cryptography,
 * 學士, 銘傳大學, 資訊工程學系, 2012 - 2016
 
 經歷：
-* 顧問, CYBAVO, 2019.10 - 至今
+* 研究員, Nayuta, 2020.11 - 至今
+* 研究員, 火幣集團, 2019.11-2020.04
+  > 研究閃電網路技術, 評估閃電網路技術導入企業的解決方案, 研究去中心化金融, 去中心化身份驗證, 去中心化保險
+* 顧問, CYBAVO, 2019.10 - 2019.11
   > 研究 segwit, 閃電網路技術, 多重簽名, greenaddress
 * 顧問, BlockTempo, 2018.09 - 至今
   > 諮詢內容包括比特幣、比特現金、密碼學、網路安全、洗錢、暗網相關的攻擊與技術闡述，相關文章15篇
@@ -51,17 +54,18 @@ My research interests include bitcoin, blockchain, onion networks, cryptography,
   > 作業系統 & 機率統計
 
 國際研討會：
-* Liu Chia-Ruei, Po-Wei Chen, Yang Chao-Chun and Duan Li-Hua. “Monitoring Machine Tool Based On External Physical Characteristics Of The Machine Tool Using Machine Learning Algorithm.” First IEEE International Conference on Artificial Intelligence for Industries ( IEEE AI4I 2018) .2018, [IEEE](https://ieeexplore.ieee.org/document/8665696)
-* Liu Chia-Ruei, Duan Huei-Yuan, Po-Wei Chen and Duan Li-Hua. “Improve Production Efficiency and Predict Machine Tool Status using Markov Chain and Hidden Markov Model.”, The 8th International Conference On Computer Science and Information Technology ( CSIT2018) . 2018, [IEEE](https://ieeexplore.ieee.org/document/8486382)
-* Jan-Ming Ho, Po-Wei Chen, Chia-Hui Wang. “Feasibility Study on Sniffering and Breakthrough of Firewall Rules behind Non-free Networks over Internet.”, 2018 International Conference for Leading and Young Computer Scientists （IC-LYCS） . 2018.
-* Po-Wei Chen, Bo-Sian Jiang, and Chia-Hui Wang. “Blockchain-based payment collection supervision system using pervasive Bitcoin digital wallet.” 2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications （WiMob） . IEEE, 2017, [IEEE](https://ieeexplore.ieee.org/abstract/document/8115844)
-* Chen Yu-Li, Po-Wei Chen, and Chia-Hui Wang. “Performance improvement for CMT-SCTP via load-balancing virtual connections.” Computing and Communication （IEMCON）, 2015 International Conference and Workshop on. IEEE, 2015 , [IEEE](https://ieeexplore.ieee.org/document/7344494)
+* Liu Chia-Ruei, **Po-Wei Chen**, Yang Chao-Chun and Duan Li-Hua. “Monitoring Machine Tool Based On External Physical Characteristics Of The Machine Tool Using Machine Learning Algorithm.” First IEEE International Conference on Artificial Intelligence for Industries ( IEEE AI4I 2018) .2018, [IEEE](https://ieeexplore.ieee.org/document/8665696)
+* Liu Chia-Ruei, Duan Huei-Yuan, **Po-Wei Chen** and Duan Li-Hua. “Improve Production Efficiency and Predict Machine Tool Status using Markov Chain and Hidden Markov Model.”, The 8th International Conference On Computer Science and Information Technology ( CSIT2018) . 2018, [IEEE](https://ieeexplore.ieee.org/document/8486382)
+* Jan-Ming Ho, **Po-Wei Chen**, Chia-Hui Wang. “Feasibility Study on Sniffering and Breakthrough of Firewall Rules behind Non-free Networks over Internet.”, 2018 International Conference for Leading and Young Computer Scientists （IC-LYCS） . 2018.
+* **Po-Wei Chen**, Bo-Sian Jiang, and Chia-Hui Wang. "Blockchain-based payment collection supervision system using pervasive Bitcoin digital wallet." 2017 IEEE 13th International Conference on Wireless and Mobile Computing, Networking and Communications （WiMob） . IEEE, 2017, [IEEE](https://ieeexplore.ieee.org/abstract/document/8115844)
+* Chen Yu-Li, **Po-Wei Chen**, and Chia-Hui Wang. “Performance improvement for CMT-SCTP via load-balancing virtual connections.” Computing and Communication （IEMCON）, 2015 International Conference and Workshop on. IEEE, 2015 , [IEEE](https://ieeexplore.ieee.org/document/7344494)
 	
 國內研討會：	
-* Po-Wei Chen, Chia-Hui Wang and Jan-Ming Ho. "Discussion on the Feasibility and Breakthrough of Firewall Rules for Non-Free Network", National Computer Symposium(NCS), 2018.
-* Bo-Sian Jiang, Po-Wei Chen, Chia-Hui Wang and Jan-Ming Ho. "Build and implement effective mobile payment platform supervision of anonymous encryption currency and real-name business transaction - for example to Bitcoin", Taiwan Academic Network Conference(TANET), 2017.
-* Po-Wei Chen, Bo-Sian Jiang, Tze-Huan Huang and Chia-Hui Wang, “The Design and Implementation of Motorcycle Accident Identification and Notification on Android Phone,” , Workshop of Information Technologies and Practices on International
-* Po-Wei Chen, Chia-Hui Wang, Jan-Ming Ho, “Study on the Security of Electronic Wallet of Digital Currency - Bitcoin Wallet as an Example,” , the 9th Cross-Strait Conference on Information Science and Technology, National Quemoy University, Kinmen, 06-08 November, 2015
+* Chen-Tse Chen, Chia-Hui Wang, **Po-Wei Chen** * . "Implementation of Merchandise Transaction Supervision System for Ethereum", Taiwan Academic Network Conference(TANET), 2020.
+* **Po-Wei Chen**, Chia-Hui Wang and Jan-Ming Ho. "Discussion on the Feasibility and Breakthrough of Firewall Rules for Non-Free Network", National Computer Symposium(NCS), 2018.
+* Bo-Sian Jiang, **Po-Wei Chen**, Chia-Hui Wang and Jan-Ming Ho. "Build and implement effective mobile payment platform supervision of anonymous encryption currency and real-name business transaction - for example to Bitcoin", Taiwan Academic Network Conference(TANET), 2017.
+* **Po-Wei Chen**, Bo-Sian Jiang, Tze-Huan Huang and Chia-Hui Wang, “The Design and Implementation of Motorcycle Accident Identification and Notification on Android Phone,” , Workshop of Information Technologies and Practices on International
+* **Po-Wei Chen**, Chia-Hui Wang, Jan-Ming Ho, “Study on the Security of Electronic Wallet of Digital Currency - Bitcoin Wallet as an Example,” , the 9th Cross-Strait Conference on Information Science and Technology, National Quemoy University, Kinmen, 06-08 November, 2015
 
 論文審查：
 * 審稿人, Concurrency and Computation: Practice and Experience, WILEY, 2019.4
@@ -78,12 +82,14 @@ My research interests include bitcoin, blockchain, onion networks, cryptography,
 
 受邀演講：
 * 比特幣的過去現在與未來
+	* 台灣大學, 電機工程學系, 2020.11.2
 	* 國立臺北大學, 2019.10.23
 	* 國立彰化師範大學, 2019.10.16
 	* 國立高雄應用科技大學, 2019.10.15
 	* 台南好想工作室, 2019.10.15
 	* 臺灣大學電腦中心臺灣大學電腦中心, 2019.07.11
-* 中國防火牆的演進史, 臺灣大學電腦中心臺灣大學電腦中心, 2019.07.18
+* 中國防火牆的演進史
+    * 臺灣大學, 電腦中心臺灣大學電腦中心, 2019.07.18
 * 比特幣的初衷 － Cypherpunks, 臺灣大學電腦中心臺灣大學電腦中心, 2019.07.1
 * Before Bitcoin, 臺灣大學電腦中心臺灣大學電腦中心, 2019.04.12
 * 比特幣概述, 科技部, 2019.3.21
